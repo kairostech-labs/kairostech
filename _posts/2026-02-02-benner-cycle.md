@@ -5,7 +5,7 @@ date: 2026-02-02
 categories:
   - cycles
   - markets
----------------------------------
+---
 
 Few market cycles attract as much fascination — and suspicion — as the **Benner Cycle**.
 
