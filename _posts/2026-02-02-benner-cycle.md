@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "The Benner Cycle: Why It Matters — and Why It Usually Fails"
 date: 2026-02-02
