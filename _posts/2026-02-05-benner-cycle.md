@@ -59,6 +59,10 @@ Forward returns in high years
 | 2007                   | -8.689941            |
 | 2016                   | 354.949951           |
 
+| mean_weekly_returns |
+| ---                 |
+| -12.005511          |
+
 Forward returns, the year following a high year
 
 | "year"(datetime_local) | sum(forward_returns) |
@@ -74,6 +78,11 @@ Forward returns, the year following a high year
 | 2000                   | -143.119995          |
 | 2008                   | -510.670044          |
 | 2017                   | 466.169922           |
+
+| mean_weekly_returns |
+| ---                 |
+| -0.462964           |
+
 
 ## Seasons
 
@@ -93,3 +102,7 @@ There may be some promise in indicating slowdowns in years following high price 
 
 > 'I know of no way of judging of the future but by the past,'
 > —Patrick Henry.
+
+# References
+
+To see the source code for the calculations, open the Jupyter Notebook here on [github](https://github.com/kairostech-labs/kairostech/blob/main/notebooks/cycles/benner_peaks.ipynb)
