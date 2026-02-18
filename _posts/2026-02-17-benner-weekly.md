@@ -12,7 +12,7 @@ categories:
 In **1875**, an Ohio farmer Samuel Benner published this diagram in his book 'Benners Prophecies
 future ups and downs in prices'.
 
-![How to make money](assets/images/benner/94b66d849747d71f3f4ed2dc98a75d0a.jpg)
+![How to make money](/assets/images/benner/94b66d849747d71f3f4ed2dc98a75d0a.jpg)
 
 The diagram marks extreme years in 3 categories from top to bottom.
 
@@ -69,7 +69,7 @@ After which momentum drops off.
 Not a good predictor of a specific year when we are likely to see a crash.
 Wouldn't use it to time shorts but there's some promise for further investigation.
 
-Would like to unpack the longer panic cycle in the future.
+Would like to unpack the longer 54 year panic cycle in the future.
 
 ## Source code
 

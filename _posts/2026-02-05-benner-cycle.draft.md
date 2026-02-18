@@ -1,17 +1,10 @@
----
-layout: post
-title: "The Benner Cycle: How accurate is it"
-date: 2026-02-05
-categories:
-  - cycles
-  - markets
----
-
 Like me you might have come across this image on social media.
 
 ![benner table](/assets/images/benner/triangle_table.png)
 
 As a timeseries analysis enthusiast, it seems like a good opportunity to examine this cycle.
+
+In fact I studied 300 years worth of data, thanks to the BOE.
 
 How it applied to the Ohio farmer studying the ups and downs of pig-iron, hogs, corn and the railroad.
 
@@ -21,6 +14,7 @@ How it is entering the discussion again in today.
 
 * Elements of Meteorology, by Prof. John H. Tice
 * Comparison to Kondratieff
+* Comparison to Jubilee
 
 # Prophecies verified (135)
 
@@ -63,6 +57,8 @@ The chart shows the mean rate of change for forward returns.
 The X axis is where in the high cycle the year falls, 0 to 27.
 
 ![high prices chart](/assets/images/benner/high-prices.svg)
+
+Rebound 2 years later?
 
 # Conclusions
 

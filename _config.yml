@@ -1,5 +1,5 @@
 title: KairosTech
-theme: minima
+theme: cayman
 markdown: kramdown
 header_pages:
   - about.md
