@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Kairos Tech explores market cycles, timing models, and structured thinking.
+Kairos Tech explores code, market, music and art.
