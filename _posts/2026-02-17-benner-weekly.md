@@ -66,6 +66,15 @@ The red highlights show these areas. The fourth vertical bar represents the char
 There seems to be some gradual increase in momentum before high years.
 After which momentum drops off.
 
+| high_cycle | mean_change   |
+| ---        |---------------|
+| 0          | -0.002518     |
+| 1          | **-0.002993** |
+| 8          | 0.001094      |
+| 9          | **-0.000875** |
+| 17         | 0.003714      |
+| 18         | **0.002427**  |
+
 Not a good predictor of a specific year when we are likely to see a crash.
 Wouldn't use it to time shorts but there's some promise for further investigation.
 

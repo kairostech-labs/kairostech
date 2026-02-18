@@ -1,5 +1,5 @@
 title: KairosTech
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 markdown: kramdown
 header_pages:
   - about.md
