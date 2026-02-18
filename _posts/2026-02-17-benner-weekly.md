@@ -7,9 +7,7 @@ categories:
   - cycles
 ---
 
-# The Benner Cycle
-
-## Sure thing
+# Sure thing
 
 In **1875**, an Ohio farmer Samuel Benner published this diagram in his book 'Benners Prophecies
 future ups and downs in prices'.
@@ -43,8 +41,6 @@ Significant years that stand out in this diagram:
 ## Digging deeper
 
 Let's look closed into the high prices cycle as 2026 is a marked peak.
-
-## Charts
 
 The data used is ^GSPC from yahoo finance (SP500 index).
 We aggregate weekly data in compiling the charts.
