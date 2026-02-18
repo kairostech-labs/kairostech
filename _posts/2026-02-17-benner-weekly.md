@@ -61,25 +61,20 @@ The red highlights show these areas. The fourth vertical bar represents the char
 
 ![high prices chart](/assets/images/benner/high-prices.svg)
 
-***
-
 There seems to be some gradual increase in momentum before high years.
 After which momentum drops off.
 
-| high_cycle | mean_change   |
-| ---        |---------------|
-| 0          | -0.002518     |
-| 1          | **-0.002993** |
-| 8          | 0.001094      |
-| 9          | **-0.000875** |
-| 17         | 0.003714      |
-| 18         | **0.002427**  |
+***
 
-Not a good predictor of a specific year when we are likely to see a crash.
-Wouldn't use it to time shorts but there's some promise for further investigation.
+We can see which years had an immediate drop from this chart comparing high to post high years.
 
-Would like to unpack the longer 54 year panic cycle in the future.
+![post high chart](/assets/images/benner/post-high.svg)
+
+Typically wouldn't use it as a predictor of a specific year when we are likely to see a crash.
+However it's had a quick reaction since 1980.
+
+Wouldn't use it to time shorts but there's some promise for further investigation into the cycle.
 
 ## Source code
 
-To see the source code for the calculations, open the Jupyter notebook here on [github](https://github.com/kairostech-labs/kairostech/blob/main/notebooks/cycles/benner_peaks.ipynb).
+To see the source code for the calculations, open the Jupyter notebook here on [github](https://github.com/kairostech-labs/kairostech/blob/main/notebooks/cycles/benner_yahoo_weekly.ipynb).
