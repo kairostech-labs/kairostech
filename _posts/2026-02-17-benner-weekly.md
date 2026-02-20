@@ -27,14 +27,28 @@ Although concerned with different markets in 1875 than today it is interesting t
 
 Significant years that stand out in this diagram:
 
-* **Panics:**
-  * 1927: Great depression (1929)
-  * 1981: Energy crisis recession (1981-1982)
-  * 1999: Dotcom bubble (2000)
-  * 2019: Covid crisis (2020)
-* **High prices:**
-    * 2007: Global financial crisis (2008)
-    * 2016: Emerging market turbulence: China, Greece, Brexit (2015, 2016)
+### Panics
+
+| benner year | name                    | recession years |
+|-------------|-------------------------|-----------------|
+| 1927        | Great depression        | 1929            |
+| 1981        | Energy crisis recession | 1981-1982       |
+| 1999        | Dot-com bubble          | 2000            |
+| 2019        | COVID-19 lockdowns      | 2020            |
+
+### High prices
+
+| benner year | name                                      | recession years | dates              |
+|-------------|-------------------------------------------|-----------------|--------------------|
+| 1972        | 1973–1974 stock market crash              | 1973-1974       | Jan 1973           |
+| 1980        | Early 1980s recession                     | 1980            | Nov 1980           |
+| 1989        | Early 1990s recession                     | 1990            | Aug 1990           |
+| 1999        | Dot-com bubble                            | 2000            | Mar 2000           |
+| 2007        | 2008 financial crisis                     | 2007-2009       | Oct 2007, Sep 2008 |
+| 2016        | Market turbulence (China, Greece, Brexit) | 2015-2016       | Jun 2015           |
+| 2026        |                                           |                 |                    |
+
+[1](https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets)
 
 ***
 
@@ -43,6 +57,7 @@ Significant years that stand out in this diagram:
 Let's look closed into the high prices cycle as 2026 is a marked peak.
 
 The data used is ^GSPC from yahoo finance (SP500 index).
+
 We aggregate weekly data in compiling the charts.
 
 | symbol | resolution | min                            | max                            | count |
@@ -57,7 +72,9 @@ The Y axis shows the average change in price for forward returns.
 The X axis shows the cycle position for the year from 0 to 26.
 
 Benner marked peaks at 8, 9 and 10 years within the 27-year cycle.
-The red highlights show these areas. The fourth vertical bar represents the chart wrapping back around to zero.
+The red highlights show these areas.
+
+The fourth vertical bar represents the chart wrapping back around to zero.
 
 ![high prices chart](/assets/images/benner/high-prices.svg)
 
@@ -70,11 +87,13 @@ We can see which years had an immediate drop from this chart comparing high to p
 
 ![post high chart](/assets/images/benner/post-high.svg)
 
-Typically wouldn't use it as a predictor of a specific year when we are likely to see a crash.
-However it's had a quick reaction since 1980.
+Wouldn't use it as a predictor of a specific year when we are likely to see a crash.
 
-Wouldn't use it to time shorts but there's some promise for further investigation into the cycle.
+However, it's had a quick reaction since 1970.
+
+There's some promise for further investigation into the cycle.
 
 ## Source code
 
+Don't just take my word for it.
 To see the source code for the calculations, open the Jupyter notebook here on [github](https://github.com/kairostech-labs/kairostech/blob/main/notebooks/cycles/benner_yahoo_weekly.ipynb).
