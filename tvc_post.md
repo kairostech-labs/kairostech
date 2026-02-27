@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tradingview test post
+permalink: /tvc/
+---
+
 # TVC Post
 
 You can paste directly from clipboard into markdown!
