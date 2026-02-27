@@ -1,6 +1,9 @@
-title: KairosTech
+title: Kairos Technology
 theme: minima
 markdown: kramdown
+description: Mostly harmless
+author:
+  name: Timeless magician
 header_pages:
   - about.md
   - projects.md

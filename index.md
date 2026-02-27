@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Kairos Tech"
+title: "Index page"
 ---
 
 ## Timing is everything.
